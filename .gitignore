@@ -1,0 +1,22 @@
+
+#Head folders to be ignored (so far we only have data on ET12_4_ - 20210427)
+ET12_7_/
+ET13_3_/
+ET13_4_/
+Machining/
+Macro_Liasse_Historique/
+20210111_ET_Dims.ods
+202101_Strategie_Prélevements_Toles_EPF+EMM.pdf
+
+#In ET12_4_/
+**/scans/
+**/Official_EBSD/
+**/Preliminary_EBSD/
+20210204_EBSD_Imagettes_Option1.jpg
+20210204_EBSD_Imagettes_Option2.jpg
+**/BSE
+**/SE
+
+!README
+
+drive-download-20210310T084214Z-001.zip
